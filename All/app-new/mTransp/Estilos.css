@@ -1,0 +1,27 @@
+.con_estilos {
+width: 293px;
+padding: 5px;
+font-size: 16px;
+border: 1px solid #D9D6D6;
+height: 34px;
+background-color:#FFFFFF;
+}
+
+.con_estilos1 {
+    width: 367px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #A8A6A6;
+    height: 34px;
+    background-color:#FFFFFF;
+    }
+
+.con_estilos2 {
+    width: 330px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #A8A6A6;
+    height: 34px;
+    background-color:#FFFFFF;
+    }
+
